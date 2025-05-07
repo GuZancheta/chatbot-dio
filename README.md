@@ -28,24 +28,10 @@ Streamlit (para o front-end do chat)
 
 PyMuPDF ou pdfplumber (para leitura dos PDFs)
 
-🗂️ Estrutura do Projeto
-bash
-Copy
-Edit
-📁 inputs/
-└── exemplo.txt  # Sentenças de exemplo utilizadas nos testes iniciais
-
-📁 src/
-└── main.py      # Lógica principal do carregamento, indexação e interação com o usuário
-
-README.md        # Este arquivo
 🧪 Como Funciona
 O usuário faz upload de um ou mais PDFs.
-
 O conteúdo é processado e transformado em vetores semânticos.
-
 As perguntas são convertidas em vetores e comparadas com os documentos.
-
 As respostas são geradas com base nos trechos mais relevantes.
 
 📸 Prints do Projeto
@@ -55,32 +41,6 @@ As respostas são geradas com base nos trechos mais relevantes.
 
 💡 Insights e Possibilidades
 Facilidade para revisar dezenas de documentos em poucos minutos;
-
 Rápida localização de trechos-chave sobre o TAG;
-
 Possibilidade de expandir o projeto para outras áreas de conhecimento;
-
 Uso em contextos clínicos, educacionais ou corporativos com diferentes bases de dados.
-
-🚀 Como Rodar o Projeto
-Clone este repositório:
-
-bash
-Copy
-Edit
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
-Instale as dependências:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Execute o chatbot:
-
-bash
-Copy
-Edit
-streamlit run src/main.py
-📬 Entrega do Projeto
-Este repositório foi submetido como parte do desafio da DIO. Agradeço pela oportunidade de aplicar os conceitos aprendidos e explorar novas formas de usar a inteligência artificial de maneira prática e relevante.
