@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1052801-5a2e-4e8a-8114-946d40416270)📚 Chatbot Inteligente Baseado em PDFs - Foco em Transtorno de Ansiedade Generalizada (TAG)
+📚 Chatbot Inteligente Baseado em PDFs - Foco em Transtorno de Ansiedade Generalizada (TAG)
 Este projeto foi desenvolvido como parte do desafio da DIO para aplicar conceitos de IA generativa, embeddings e buscas vetorizadas em um chatbot interativo que responde com base em conteúdos extraídos de arquivos PDF.
 
 🎯 Objetivo
@@ -49,7 +49,9 @@ As perguntas são convertidas em vetores e comparadas com os documentos.
 As respostas são geradas com base nos trechos mais relevantes.
 
 📸 Prints do Projeto
-Aqui você pode inserir prints do seu chatbot em funcionamento, interface, console, exemplos de respostas, etc.
+![image](https://github.com/user-attachments/assets/35da29d1-e7da-4709-a01c-db275c97cd8e)
+![image](https://github.com/user-attachments/assets/2aabba47-ffcf-4e1e-b253-7c9dccff04da)
+
 
 💡 Insights e Possibilidades
 Facilidade para revisar dezenas de documentos em poucos minutos;
